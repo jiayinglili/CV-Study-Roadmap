@@ -6,3 +6,4 @@ for item in list1:
 
 dic1 = {"img1":"1080","img2":720}
 print(len(dic1))
+print(dic1["img1"])
