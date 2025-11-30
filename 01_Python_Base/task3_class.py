@@ -11,5 +11,6 @@ def main():
     processor.show_info()
     processor.process_image()
     processor.show_info()
-main()
+if __name__ == '__main__':
+  main()
 
